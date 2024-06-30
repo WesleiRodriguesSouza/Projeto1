@@ -1,2 +1,2 @@
-lista de comandos do GitHub
+lista de comandos do GitHub basicos:
 
